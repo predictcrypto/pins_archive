@@ -8,3 +8,8 @@
   rows: 254623
   cols: 87
   type: table
+- path: crypto-data-new-2
+  name: crypto-data-new-2
+  rows: 254623
+  cols: 87
+  type: table
