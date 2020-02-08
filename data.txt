@@ -1,0 +1,5 @@
+- path: crypto-data
+  name: crypto-data
+  rows: 255490
+  cols: 87
+  type: table
