@@ -11,3 +11,8 @@
   rows: 224085
   cols: 5
   type: table
+- path: crypto-data
+  name: crypto-data
+  rows: 248353
+  cols: 87
+  type: table
