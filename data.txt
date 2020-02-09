@@ -3,3 +3,6 @@
   rows: 255490
   cols: 87
   type: table
+- path: myIp
+  name: myIp
+  type: default
