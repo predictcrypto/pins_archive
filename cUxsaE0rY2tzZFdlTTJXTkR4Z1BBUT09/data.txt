@@ -1,3 +1,0 @@
-path: []
-extension: ''
-type: files
