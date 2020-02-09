@@ -13,6 +13,6 @@
   type: table
 - path: crypto-data
   name: crypto-data
-  rows: 248353
+  rows: 252011
   cols: 87
   type: table
