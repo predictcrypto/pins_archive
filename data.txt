@@ -6,3 +6,8 @@
 - path: myIp
   name: myIp
   type: default
+- path: cryptoData
+  name: cryptoData
+  rows: 247262
+  cols: 83
+  type: table
