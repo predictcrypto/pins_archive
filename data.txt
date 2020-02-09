@@ -1,0 +1,3 @@
+- path: myIp
+  name: myIp
+  type: default
