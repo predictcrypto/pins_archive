@@ -1,5 +1,5 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/coin-metrics-fbef7ae/data.csv
+- https://github.com/predictcrypto/pins/releases/download/coin-metrics-eae099e/data.csv
 - data.rds
 rows: 75206
 cols: 46
@@ -47,7 +47,7 @@ columns:
   volatility_180_days: factor
   volatility_60_days: factor
   volatility_30_days: factor
-  date_time: factor
+  date_time_utc: factor
   pk_dummy: factor
   pkey: factor
 type: table
