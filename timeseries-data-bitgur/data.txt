@@ -1,26 +1,26 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/timeseries-data-bitgur-c6ddb22/data.csv
-- https://github.com/predictcrypto/pins/releases/download/timeseries-data-bitgur-c6ddb22/data.rds
-rows: 3262700
+- https://github.com/predictcrypto/pins/releases/download/timeseries-data-bitgur-8295fe4/data.csv
+- https://github.com/predictcrypto/pins/releases/download/timeseries-data-bitgur-8295fe4/data.rds
+rows: 3709424
 cols: 19
 columns:
-  Index: numeric
-  BITEX: numeric
-  Rank: integer
-  Name: factor
-  Symbol: factor
-  Price: numeric
-  Performance15min: numeric
-  Performance1h: numeric
-  Performance3h: numeric
-  Performance1d: numeric
-  Performance7d: numeric
-  Performance1m: numeric
-  Performance3m: numeric
-  Performance6m: numeric
-  Volatility: numeric
-  Date: factor
-  pkDummy: factor
-  DateTime: factor
+  index: numeric
+  bitex: numeric
+  rank: integer
+  name: factor
+  symbol: factor
+  price: numeric
+  performance_15_min: numeric
+  performance_1_h: numeric
+  performance_3_h: numeric
+  performance_1_d: numeric
+  performance_7_d: numeric
+  performance_1_m: numeric
+  performance_3_m: numeric
+  performance_6_m: numeric
+  volatility: numeric
+  date: factor
+  date_time: factor
+  pk_dummy: factor
   pkey: factor
 type: table
