@@ -36,3 +36,8 @@
   rows: 9298
   cols: 12
   type: table
+- path: investing-dot-com
+  name: investing-dot-com
+  rows: 19438
+  cols: 14
+  type: table
