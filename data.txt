@@ -21,3 +21,8 @@
   rows: 3709424
   cols: 19
   type: table
+- path: investing-dot-com-hitbtc
+  name: investing-dot-com-hitbtc
+  rows: 10140
+  cols: 12
+  type: table
