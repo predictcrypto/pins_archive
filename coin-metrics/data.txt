@@ -1,5 +1,5 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/coin-metrics-eae099e/data.csv
+- https://github.com/predictcrypto/pins/releases/download/coin-metrics-3615a59/data.csv
 - data.rds
 rows: 75206
 cols: 46
