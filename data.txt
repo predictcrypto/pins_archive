@@ -31,3 +31,8 @@
   rows: 75206
   cols: 46
   type: table
+- path: investing-dot-com-poloniex
+  name: investing-dot-com-poloniex
+  rows: 9298
+  cols: 12
+  type: table
