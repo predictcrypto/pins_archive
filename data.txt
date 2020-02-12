@@ -26,3 +26,8 @@
   rows: 10140
   cols: 12
   type: table
+- path: coin-metrics
+  name: coin-metrics
+  rows: 75206
+  cols: 46
+  type: table
