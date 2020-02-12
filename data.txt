@@ -18,6 +18,6 @@
   type: table
 - path: timeseries-data-bitgur
   name: timeseries-data-bitgur
-  rows: 3262700
+  rows: 3709424
   cols: 19
   type: table
