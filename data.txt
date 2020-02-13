@@ -13,7 +13,7 @@
   type: table
 - path: crypto-data
   name: crypto-data
-  rows: 245863
+  rows: 237541
   cols: 87
   type: table
 - path: timeseries-data-bitgur
