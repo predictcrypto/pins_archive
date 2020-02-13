@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/crypto-data-eb13c81/data.csv
+- https://github.com/predictcrypto/pins/releases/download/crypto-data-191816f/data.csv
 - data.rds
-rows: 245863
+rows: 237541
 cols: 87
 columns:
   DateExtracted: factor
