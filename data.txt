@@ -3,7 +3,7 @@
   type: default
 - path: cryptoData
   name: cryptoData
-  rows: 250434
+  rows: 251097
   cols: 83
   type: table
 - path: ShrimpyPrices
