@@ -1,0 +1,19 @@
+path:
+- data.csv
+- data.rds
+rows: 19438
+cols: 12
+columns:
+  date: factor
+  symbol: factor
+  exchange: factor
+  price_usd: numeric
+  daily_open_usd: numeric
+  daily_high_usd: numeric
+  daily_low_usd: numeric
+  volume: numeric
+  change_percent: numeric
+  date_time_utc: factor
+  pk_dummy: factor
+  pkey: factor
+type: table
