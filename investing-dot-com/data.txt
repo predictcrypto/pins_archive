@@ -2,20 +2,18 @@ path:
 - data.csv
 - data.rds
 rows: 19438
-cols: 14
+cols: 12
 columns:
-  index: integer
-  date: character
-  symbol: character
-  exchange: character
-  price_usd: character
-  daily_open_usd: character
-  daily_high_usd: character
-  daily_low_usd: character
+  date: factor
+  symbol: factor
+  exchange: factor
+  price_usd: factor
+  daily_open_usd: factor
+  daily_high_usd: factor
+  daily_low_usd: factor
   volume: numeric
   change_percent: numeric
-  date_time_utc: POSIXct
-  pk_dummy: character
-  pkey: character
-  pkDummy: character
+  date_time_utc: factor
+  pk_dummy: factor
+  pkey: factor
 type: table
