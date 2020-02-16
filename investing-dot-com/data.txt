@@ -2,7 +2,7 @@ path:
 - data.csv
 - data.rds
 rows: 19438
-cols: 12
+cols: 13
 columns:
   date: factor
   symbol: factor
@@ -16,4 +16,5 @@ columns:
   date_time_utc: factor
   pk_dummy: factor
   pkey: factor
+  updated: factor
 type: table
