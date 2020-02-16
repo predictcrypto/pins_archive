@@ -4,7 +4,7 @@ path:
 rows: 75206
 cols: 46
 columns:
-  date: date
+  date: character
   symbol: character
   active_addresses: numeric
   block_count: numeric
