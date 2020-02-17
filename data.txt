@@ -41,3 +41,8 @@
   rows: 19438
   cols: 13
   type: table
+- path: cryptory-reddit-bitcoin
+  name: cryptory-reddit-bitcoin
+  rows: 1142
+  cols: 7
+  type: table
