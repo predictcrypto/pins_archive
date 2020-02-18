@@ -8,7 +8,7 @@
   type: table
 - path: ShrimpyPrices
   name: ShrimpyPrices
-  rows: 252608
+  rows: 253063
   cols: 5
   type: table
 - path: crypto-data
