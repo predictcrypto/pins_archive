@@ -1,5 +1,5 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/cryptoData-2b202b2/data.csv
+- https://github.com/predictcrypto/pins/releases/download/cryptoData-12e05d1/data.csv
 - data.rds
 rows: 264519
 cols: 83
