@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/cryptoData-3170544/data.csv
+- https://github.com/predictcrypto/pins/releases/download/cryptoData-a629c72/data.csv
 - data.rds
-rows: 262603
+rows: 262855
 cols: 83
 columns:
   DateTimeColoradoTimeMST: POSIXct
