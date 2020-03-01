@@ -28,8 +28,8 @@
   type: table
 - path: coin-metrics
   name: coin-metrics
-  rows: 114311
-  cols: 45
+  rows: 105129
+  cols: 46
   type: table
 - path: investing-dot-com-poloniex
   name: investing-dot-com-poloniex
