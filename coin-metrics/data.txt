@@ -1,8 +1,8 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/coin-metrics-d43dd00/data.csv
+- https://github.com/predictcrypto/pins/releases/download/coin-metrics-8c8cc9f/data.csv
 - data.rds
 rows: 114311
-cols: 48
+cols: 45
 columns:
   date: factor
   symbol: factor
@@ -49,7 +49,4 @@ columns:
   date_time_utc: factor
   pk_dummy: factor
   pkey: factor
-  Price_in_USD_or_index_value: numeric
-  index_value_usd: factor
-  index_value_btc: factor
 type: table
