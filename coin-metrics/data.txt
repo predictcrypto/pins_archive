@@ -1,41 +1,36 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/coin-metrics-e368d8d/data.csv
+- data.csv
 - data.rds
-rows: 75206
-cols: 46
+rows: 4955
+cols: 41
 columns:
   date: factor
   symbol: factor
-  active_addresses: numeric
-  block_count: numeric
-  block_size_block_bytes: numeric
-  block_mean_size_bytes: factor
+  active_addresses: integer
+  block_count: integer
+  block_size_block_bytes: integer
+  block_mean_size_bytes: numeric
   cap_mrkt_cur: factor
-  mvrv_capitalization_supply_usd: numeric
-  market_capitalization_usd: factor
-  difficulty_mean: factor
   fees_daily_mean_native_units: factor
   fees_daily_mean_usd: factor
-  fees_daily_median_native_units: factor
+  fees_daily_median_native_units: numeric
   fees_daily_median_usd: factor
-  fees_daily_total_native_units: factor
+  fees_daily_total_native_units: numeric
   fees_daily_total_usd: factor
-  hash_rate: factor
-  supply_issued_daily: factor
+  supply_issued_daily: numeric
   annual_inflation_rate: numeric
   supply_issued_usd_equivalent_scheduled_daily: factor
-  supply_issued_native_units_total: factor
+  supply_issued_native_units_total: numeric
   supply_issued_usd_equivalent_total: factor
-  adjusted_nvt: factor
+  adjusted_nvt: numeric
   adjusted_nvt_90_day_ma: factor
   price_btc: factor
   price_usd: factor
   roi_1_year: factor
   roi_30_days: factor
   supply_current: factor
-  transactions_count_daily: numeric
-  transactions_successful_transfers_daily: integer
-  transactions_successful_transfers_daily_count: numeric
+  transactions_count_daily: integer
+  transactions_successful_transfers_daily_count: integer
   transactions_native_units_transferred_adjusted: factor
   transactions_usd_equivalent_adjusted: factor
   transactions_mean_native_units_per_transaction: factor
