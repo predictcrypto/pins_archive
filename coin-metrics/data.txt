@@ -1,0 +1,53 @@
+path:
+- https://github.com/predictcrypto/pins/releases/download/coin-metrics-526aa71/data.csv
+- data.rds
+rows: 105129
+cols: 46
+columns:
+  Date: factor
+  AdrActCnt: integer
+  BlkCnt: integer
+  BlkSizeByte: numeric
+  BlkSizeMeanByte: factor
+  CapMVRVCur: numeric
+  CapMrktCurUSD: factor
+  CapRealUSD: factor
+  DiffMean: factor
+  FeeMeanNtv: factor
+  FeeMeanUSD: factor
+  FeeMedNtv: factor
+  FeeMedUSD: factor
+  FeeTotNtv: factor
+  FeeTotUSD: factor
+  HashRate: factor
+  IssContNtv: factor
+  IssContPctAnn: numeric
+  IssContUSD: factor
+  IssTotNtv: factor
+  IssTotUSD: factor
+  NVTAdj: factor
+  NVTAdj90: factor
+  PriceBTC: factor
+  PriceUSD: factor
+  ROI1yr: factor
+  ROI30d: factor
+  SplyCur: factor
+  TxCnt: integer
+  TxTfrCnt: integer
+  TxTfrValAdjNtv: factor
+  TxTfrValAdjUSD: factor
+  TxTfrValMeanNtv: factor
+  TxTfrValMeanUSD: factor
+  TxTfrValMedNtv: factor
+  TxTfrValMedUSD: factor
+  TxTfrValNtv: factor
+  TxTfrValUSD: factor
+  VtyDayRet180d: factor
+  VtyDayRet30d: factor
+  VtyDayRet60d: factor
+  FileName: factor
+  Price_in_USD_or_index_value: numeric
+  index_value_usd: factor
+  index_value_btc: factor
+  DateTimeUTC: factor
+type: table
