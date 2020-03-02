@@ -1,15 +1,15 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/coin-metrics-361d307/data.csv
+- https://github.com/predictcrypto/pins/releases/download/coin-metrics-b57cd5e/data.csv
 - data.rds
-rows: 56460
-cols: 43
+rows: 71603
+cols: 46
 columns:
   Date: factor
   Symbol: factor
   AdrActCnt: integer
   BlkCnt: integer
-  BlkSizeByte: integer
-  BlkSizeMeanByte: numeric
+  BlkSizeByte: numeric
+  BlkSizeMeanByte: factor
   CapMVRVCur: numeric
   CapMrktCurUSD: factor
   CapRealUSD: factor
@@ -46,5 +46,8 @@ columns:
   VtyDayRet180d: factor
   VtyDayRet30d: factor
   VtyDayRet60d: factor
+  Price_in_USD_or_index_value: numeric
+  index_value_usd: factor
+  index_value_btc: factor
   DateTimeUTC: factor
 type: table
