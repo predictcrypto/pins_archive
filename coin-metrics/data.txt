@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/coin-metrics-b57cd5e/data.csv
+- data.csv
 - data.rds
-rows: 71603
+rows: 33567
 cols: 46
 columns:
   Date: factor
