@@ -46,3 +46,8 @@
   rows: 1142
   cols: 7
   type: table
+- path: coin_metrcs
+  name: coin_metrcs
+  rows: 33567
+  cols: 38
+  type: table
