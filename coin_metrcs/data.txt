@@ -1,0 +1,45 @@
+path:
+- data.csv
+- data.rds
+rows: 33567
+cols: 38
+columns:
+  Rank: integer
+  Date: character
+  Symbol: character
+  AdrActCnt: integer
+  BlkCnt: integer
+  CapMrktCurUSD: numeric
+  FeeMeanNtv: numeric
+  FeeMeanUSD: numeric
+  FeeMedNtv: numeric
+  FeeMedUSD: numeric
+  FeeTotNtv: numeric
+  FeeTotUSD: numeric
+  IssContNtv: numeric
+  IssContPctAnn: numeric
+  IssContUSD: numeric
+  IssTotNtv: numeric
+  IssTotUSD: numeric
+  NVTAdj: numeric
+  NVTAdj90: numeric
+  PriceBTC: numeric
+  PriceUSD: numeric
+  ROI1yr: numeric
+  ROI30d: numeric
+  SplyCur: numeric
+  TxCnt: integer
+  TxTfrCnt: integer
+  TxTfrValAdjNtv: numeric
+  TxTfrValAdjUSD: numeric
+  TxTfrValMeanNtv: numeric
+  TxTfrValMeanUSD: numeric
+  TxTfrValMedNtv: numeric
+  TxTfrValMedUSD: numeric
+  TxTfrValNtv: numeric
+  TxTfrValUSD: numeric
+  VtyDayRet180d: numeric
+  VtyDayRet30d: numeric
+  VtyDayRet60d: numeric
+  DateTimeUTC: character
+type: table
