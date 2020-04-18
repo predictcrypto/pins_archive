@@ -1,10 +1,9 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/messari-4f8f496/data.csv
+- https://github.com/predictcrypto/pins/releases/download/messari-d9bbf4e/data.csv
 - data.rds
 rows: 381211
-cols: 88
+cols: 83
 columns:
-  X: integer
   DateExtracted: character
   DateTimeColoradoMST: character
   Name: character
@@ -19,7 +18,6 @@ columns:
   Reported_Supply: numeric
   CurrentInflation: character
   ATH_USD: numeric
-  TimeFromATH: character
   PercDownFromATH: numeric
   BreakevenMultiple: character
   PercUpSinceLow: numeric
@@ -81,15 +79,12 @@ columns:
   NextHalvingDate: character
   GenesisBlockDate: character
   Age: character
-  HasExperienced51PercAttack: character
-  EmissionType_General: character
   EmissionType_Precise: character
   IsSupplyCapped: character
   MaxSupply: numeric
   Sector: character
   Category: character
   TokenUsage: character
-  TokenType: character
   ConsensusAlgorithm: character
   pkDummy: character
 type: table

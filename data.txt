@@ -54,5 +54,5 @@
 - path: messari
   name: messari
   rows: 381211
-  cols: 88
+  cols: 83
   type: table
