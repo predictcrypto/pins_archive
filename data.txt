@@ -51,3 +51,8 @@
   rows: 33567
   cols: 38
   type: table
+- path: test_upload
+  name: test_upload
+  rows: 3
+  cols: 2
+  type: table
