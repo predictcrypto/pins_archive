@@ -53,6 +53,6 @@
   type: table
 - path: messari
   name: messari
-  rows: 401329
+  rows: 402098
   cols: 83
   type: table
