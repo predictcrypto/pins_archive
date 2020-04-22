@@ -1,0 +1,17 @@
+path:
+- https://github.com/predictcrypto/pins/releases/download/shrimpy_prices-9f0e1b0/data.csv
+- data.rds
+rows: 256731
+cols: 10
+columns:
+  Name: character
+  Price: numeric
+  Spread: numeric
+  Depth: numeric
+  ExchangeBidDepth: integer
+  ExchangeAskDepth: integer
+  Exchange: character
+  Date: character
+  DateTime: character
+  pkDummy: character
+type: table
