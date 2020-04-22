@@ -6,11 +6,6 @@
   rows: 262288
   cols: 83
   type: table
-- path: ShrimpyPrices
-  name: ShrimpyPrices
-  rows: 255830
-  cols: 5
-  type: table
 - path: crypto-data
   name: crypto-data
   rows: 237541
@@ -55,9 +50,4 @@
   name: messari
   rows: 414860
   cols: 83
-  type: table
-- path: shrimpy_prices
-  name: shrimpy_prices
-  rows: 370
-  cols: 10
   type: table
