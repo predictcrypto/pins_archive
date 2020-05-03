@@ -58,6 +58,6 @@
   type: table
 - path: ShrimpyPrices
   name: ShrimpyPrices
-  rows: 273103
+  rows: 273430
   cols: 5
   type: table
