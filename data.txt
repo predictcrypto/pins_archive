@@ -48,7 +48,7 @@
   type: table
 - path: messari
   name: messari
-  rows: 1267304
+  rows: 1268457
   cols: 83
   type: table
 - path: shrimpy_prices
