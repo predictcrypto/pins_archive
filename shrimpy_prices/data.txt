@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/shrimpy_prices-4a8416b/data.csv
+- https://github.com/predictcrypto/pins/releases/download/shrimpy_prices-e701deb/data.csv
 - data.rds
-rows: 1059814
+rows: 1060160
 cols: 10
 columns:
   Name: character
