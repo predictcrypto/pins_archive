@@ -61,3 +61,8 @@
   rows: 278465
   cols: 5
   type: table
+- path: messari_reprex
+  name: messari_reprex
+  rows: 6
+  cols: 83
+  type: table
