@@ -58,7 +58,7 @@
   type: table
 - path: ShrimpyPrices
   name: ShrimpyPrices
-  rows: 280871
+  rows: 281238
   cols: 5
   type: table
 - path: messari_reprex
