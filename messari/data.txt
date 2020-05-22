@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/messari-de0ab6b/data.csv
-- https://github.com/predictcrypto/pins/releases/download/messari-de0ab6b/data.rds
-rows: 1405467
+- https://github.com/predictcrypto/pins/releases/download/messari-09a5921/data.csv
+- https://github.com/predictcrypto/pins/releases/download/messari-09a5921/data.rds
+rows: 1405536
 cols: 83
 columns:
   DateExtracted: character
@@ -10,8 +10,8 @@ columns:
   Rank: integer
   PriceUSD: numeric
   PriceBTC: numeric
-  PercChange24hVsUSD: numeric
-  PercChange24hVsBTC: numeric
+  PercChange24hVsUSD: character
+  PercChange24hVsBTC: character
   Reported_MarketCap: numeric
   Reported24hVolume: numeric
   VolumeTurnover24h: numeric
@@ -22,8 +22,8 @@ columns:
   BreakevenMultiple: character
   PercUpSinceLow: numeric
   PercChange7d: numeric
-  PercChange7d_BTC: numeric
-  PercChange30d: numeric
+  PercChange7d_BTC: character
+  PercChange30d: character
   PercChange30d_BTC: numeric
   PercChange90d: numeric
   PercChange90d_BTC: numeric
@@ -53,7 +53,7 @@ columns:
   NumBlocks24h: integer
   Git_Stars: integer
   Git_Watchers: integer
-  Git_CommitsLast90Days: integer
+  Git_CommitsLast90Days: character
   Git_CommitsLastYear: integer
   Git_LinesAddedLast90Days: integer
   Git_LinesAddedLastYear: integer
