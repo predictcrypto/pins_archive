@@ -1,6 +1,6 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/messari-baf1cd6/data.csv
-- https://github.com/predictcrypto/pins/releases/download/messari-baf1cd6/data.rds
+- https://github.com/predictcrypto/pins/releases/download/messari-899488c/data.csv
+- https://github.com/predictcrypto/pins/releases/download/messari-899488c/data.rds
 rows: 1405116
 cols: 83
 columns:
