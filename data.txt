@@ -53,7 +53,7 @@
   type: table
 - path: shrimpy_prices
   name: shrimpy_prices
-  rows: 1096889
+  rows: 1097311
   cols: 10
   type: table
 - path: ShrimpyPrices
