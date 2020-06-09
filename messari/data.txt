@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/messari-ca22eef/data.csv
-- https://github.com/predictcrypto/pins/releases/download/messari-ca22eef/data.rds
-rows: 1434687
+- https://github.com/predictcrypto/pins/releases/download/messari-d6ceed6/data.csv
+- https://github.com/predictcrypto/pins/releases/download/messari-d6ceed6/data.rds
+rows: 1435085
 cols: 83
 columns:
   DateExtracted: character
@@ -21,7 +21,7 @@ columns:
   PercDownFromATH: numeric
   BreakevenMultiple: character
   PercUpSinceLow: numeric
-  PercChange7d: numeric
+  PercChange7d: character
   PercChange7d_BTC: character
   PercChange30d: character
   PercChange30d_BTC: numeric
@@ -55,7 +55,7 @@ columns:
   Git_Watchers: integer
   Git_CommitsLast90Days: character
   Git_CommitsLastYear: integer
-  Git_LinesAddedLast90Days: integer
+  Git_LinesAddedLast90Days: character
   Git_LinesAddedLastYear: integer
   Git_LinesRemovedLast90Days: integer
   Git_LinesRemovedLastYear: integer
