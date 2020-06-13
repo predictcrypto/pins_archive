@@ -1,0 +1,25 @@
+path:
+- data.csv
+- data.rds
+rows: 23990
+cols: 18
+columns:
+  X: integer
+  Symbol: character
+  Name: character
+  Exchange: character
+  lowest_ask_1_price_usd: numeric
+  lowest_ask_1_quantity: numeric
+  lowest_ask_2_price_usd: numeric
+  lowest_ask_2_quantity: numeric
+  lowest_ask_3_price_usd: numeric
+  lowest_ask_3_quantity: numeric
+  lowest_ask_4_price_usd: numeric
+  lowest_ask_4_quantity: numeric
+  lowest_ask_5_price_usd: numeric
+  lowest_ask_5_quantity: numeric
+  date: character
+  date_time_utc: character
+  pkDummy: character
+  pkey: character
+type: table
