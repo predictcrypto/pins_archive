@@ -1,10 +1,9 @@
 path:
 - data.csv
 - data.rds
-rows: 23990
-cols: 18
+rows: 23945
+cols: 27
 columns:
-  X: integer
   Symbol: character
   Name: character
   Exchange: character
@@ -18,6 +17,16 @@ columns:
   lowest_ask_4_quantity: numeric
   lowest_ask_5_price_usd: numeric
   lowest_ask_5_quantity: numeric
+  highest_bid_1_price_usd: numeric
+  highest_bid_1_quantity: numeric
+  highest_bid_2_price_usd: numeric
+  highest_bid_2_quantity: numeric
+  highest_bid_3_price_usd: numeric
+  highest_bid_3_quantity: numeric
+  highest_bid_4_price_usd: numeric
+  highest_bid_4_quantity: numeric
+  highest_bid_5_price_usd: numeric
+  highest_bid_5_quantity: numeric
   date: character
   date_time_utc: character
   pkDummy: character
