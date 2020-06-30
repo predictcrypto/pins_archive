@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/messari-b08e366/data.csv
-- https://github.com/predictcrypto/pins/releases/download/messari-b08e366/data.rds
-rows: 1608546
+- https://github.com/predictcrypto/pins/releases/download/messari-0b4b635/data.csv
+- https://github.com/predictcrypto/pins/releases/download/messari-0b4b635/data.rds
+rows: 1609300
 cols: 83
 columns:
   DateExtracted: character
