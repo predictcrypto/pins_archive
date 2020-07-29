@@ -68,6 +68,6 @@
   type: table
 - path: shrimpy_orderbooks
   name: shrimpy_orderbooks
-  rows: 78809
+  rows: 78810
   cols: 27
   type: table
