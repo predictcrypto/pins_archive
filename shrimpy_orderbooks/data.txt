@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/shrimpy_orderbooks-b992979/data.csv
+- https://github.com/predictcrypto/pins/releases/download/shrimpy_orderbooks-8b54962/data.csv
 - data.rds
-rows: 177094
+rows: 176972
 cols: 27
 columns:
   Symbol: character
