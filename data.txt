@@ -96,3 +96,8 @@
   rows: 1167358
   cols: 19
   type: table
+- path: reprex_bitgur_50
+  name: reprex_bitgur_50
+  rows: 592048
+  cols: 19
+  type: table
