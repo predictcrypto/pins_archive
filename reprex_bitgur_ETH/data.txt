@@ -1,0 +1,26 @@
+path:
+- data.csv
+- data.rds
+rows: 11967
+cols: 19
+columns:
+  Index: numeric
+  BITEX: numeric
+  Rank: integer
+  Name: character
+  Symbol: character
+  Price: numeric
+  Performance15min: numeric
+  Performance1h: numeric
+  Performance3h: numeric
+  Performance1d: numeric
+  Performance7d: numeric
+  Performance1m: numeric
+  Performance3m: numeric
+  Performance6m: numeric
+  Volatility: numeric
+  Date: character
+  pkDummy: character
+  DateTime: POSIXct
+  pkey: character
+type: table
