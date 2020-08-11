@@ -71,3 +71,8 @@
   rows: 176972
   cols: 27
   type: table
+- path: reprex_bitgur_full
+  name: reprex_bitgur_full
+  rows: 6572441
+  cols: 19
+  type: table
