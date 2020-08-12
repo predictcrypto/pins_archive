@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/messari-cfde78d/data.csv
-- https://github.com/predictcrypto/pins/releases/download/messari-cfde78d/data.rds
-rows: 1922142
+- https://github.com/predictcrypto/pins/releases/download/messari-84aa936/data.csv
+- https://github.com/predictcrypto/pins/releases/download/messari-84aa936/data.rds
+rows: 1909365
 cols: 83
 columns:
   DateExtracted: character
@@ -16,7 +16,7 @@ columns:
   Reported24hVolume: numeric
   VolumeTurnover24h: numeric
   Reported_Supply: numeric
-  CurrentInflation: character
+  CurrentInflation: numeric
   ATH_USD: numeric
   PercDownFromATH: numeric
   BreakevenMultiple: character
