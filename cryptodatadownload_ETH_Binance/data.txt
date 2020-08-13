@@ -1,0 +1,15 @@
+path:
+- data.csv
+- data.rds
+rows: 12888
+cols: 8
+columns:
+  Date: Date
+  Symbol: character
+  Open: numeric
+  High: numeric
+  Low: numeric
+  Close: numeric
+  Volume.USDT: numeric
+  Date.Time: character
+type: table

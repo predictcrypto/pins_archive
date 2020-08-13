@@ -116,3 +116,8 @@
   rows: 5671
   cols: 15
   type: table
+- path: cryptodatadownload_ETH_Binance
+  name: cryptodatadownload_ETH_Binance
+  rows: 12888
+  cols: 8
+  type: table
