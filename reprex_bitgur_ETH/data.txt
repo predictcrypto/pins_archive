@@ -4,23 +4,23 @@ path:
 rows: 11967
 cols: 19
 columns:
-  Index: numeric
-  BITEX: numeric
-  Rank: integer
-  Name: character
-  Symbol: character
-  Price: numeric
-  Performance15min: numeric
-  Performance1h: numeric
-  Performance3h: numeric
-  Performance1d: numeric
-  Performance7d: numeric
-  Performance1m: numeric
-  Performance3m: numeric
-  Performance6m: numeric
-  Volatility: numeric
-  Date: character
-  pkDummy: character
-  DateTime: POSIXct
+  index: numeric
+  bitex: numeric
+  rank: integer
+  name: character
+  symbol: character
+  price: numeric
+  performance15min: numeric
+  performance1h: numeric
+  performance3h: numeric
+  performance1d: numeric
+  performance7d: numeric
+  performance1m: numeric
+  performance3m: numeric
+  performance6m: numeric
+  volatility: numeric
+  date: Date
+  pk_dummy: character
+  date_time: POSIXct
   pkey: character
 type: table
