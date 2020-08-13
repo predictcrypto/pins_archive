@@ -2,14 +2,13 @@ path:
 - data.csv
 - data.rds
 rows: 5671
-cols: 19
+cols: 15
 columns:
-  index: numeric
-  bitex: numeric
-  rank: integer
   name: character
   symbol: character
   price: numeric
+  date: Date
+  date_time: POSIXct
   performance15min: numeric
   performance1h: numeric
   performance3h: numeric
@@ -18,9 +17,6 @@ columns:
   performance1m: numeric
   performance3m: numeric
   performance6m: numeric
-  volatility: numeric
-  date: Date
-  pk_dummy: character
-  date_time: POSIXct
-  pkey: character
+  index: numeric
+  bitex: numeric
 type: table
