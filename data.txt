@@ -118,7 +118,7 @@
   type: table
 - path: cryptodatadownload_ETH_Binance
   name: cryptodatadownload_ETH_Binance
-  rows: 12888
+  rows: 25775
   cols: 8
   type: table
 - path: cryptodatadownload_BTC_Binance
