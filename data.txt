@@ -113,6 +113,6 @@
   type: table
 - path: reprex_bitgur_ETH
   name: reprex_bitgur_ETH
-  rows: 11967
+  rows: 5671
   cols: 19
   type: table
