@@ -10,6 +10,6 @@ columns:
   High: numeric
   Low: numeric
   Close: numeric
-  Volume.USDT: numeric
-  Date.Time: POSIXct
+  VolumeUSDT: numeric
+  DateTime: POSIXct
 type: table
