@@ -126,3 +126,8 @@
   rows: 25752
   cols: 8
   type: table
+- path: cryptodatadownload_LTC_Binance
+  name: cryptodatadownload_LTC_Binance
+  rows: 22848
+  cols: 8
+  type: table
