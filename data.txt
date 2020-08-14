@@ -123,6 +123,6 @@
   type: table
 - path: cryptodatadownload_BTC_Binance
   name: cryptodatadownload_BTC_Binance
-  rows: 1074
+  rows: 25752
   cols: 8
   type: table

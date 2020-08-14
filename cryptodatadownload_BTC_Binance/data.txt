@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 1074
+rows: 25752
 cols: 8
 columns:
   Date: Date
@@ -10,6 +10,6 @@ columns:
   High: numeric
   Low: numeric
   Close: numeric
-  Volume.USDT: numeric
-  Date.Time: character
+  VolumeUSDT: numeric
+  DateTime: POSIXct
 type: table
