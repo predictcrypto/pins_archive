@@ -1,34 +1,26 @@
 path:
 - data.csv
 - data.rds
-rows: 2761
-cols: 27
+rows: 22847
+cols: 19
 columns:
-  pair: character
-  symbol: character
-  quote_currency: character
-  ask_1_price: character
-  ask_1_quantity: character
-  ask_2_price: character
-  ask_2_quantity: character
-  ask_3_price: character
-  ask_3_quantity: character
-  ask_4_price: character
-  ask_4_quantity: character
-  ask_5_price: character
-  ask_5_quantity: character
-  bid_1_price: character
-  bid_1_quantity: character
-  bid_2_price: character
-  bid_2_quantity: character
-  bid_3_price: character
-  bid_3_quantity: character
-  bid_4_price: character
-  bid_4_quantity: character
-  bid_5_price: character
-  bid_5_quantity: character
-  date_time_utc: POSIXct
-  date: character
-  pkDummy: character
-  pkey: character
+  Date: Date
+  Symbol: character
+  Open: numeric
+  High: numeric
+  Low: numeric
+  Close: numeric
+  VolumeUSDT: numeric
+  CloseLag1Hour: numeric
+  CloseLag12Hour: numeric
+  CloseLag24Hour: numeric
+  CloseLag3Day: numeric
+  CloseLag7Day: numeric
+  CloseLag14Day: numeric
+  CloseLag30Day: numeric
+  CloseLag90Day: numeric
+  CloseLag120Day: numeric
+  Volatility: numeric
+  Target24HourClose: numeric
+  DateTime: POSIXct
 type: table
