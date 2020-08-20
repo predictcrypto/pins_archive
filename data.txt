@@ -128,8 +128,8 @@
   type: table
 - path: cryptodatadownload_LTC_Binance
   name: cryptodatadownload_LTC_Binance
-  rows: 22848
-  cols: 8
+  rows: 22847
+  cols: 19
   type: table
 - path: hitBTC_orderbooks_github
   name: hitBTC_orderbooks_github
