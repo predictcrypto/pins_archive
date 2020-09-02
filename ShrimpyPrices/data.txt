@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 346563
+rows: 348779
 cols: 5
 columns:
   DateExtracted: character
