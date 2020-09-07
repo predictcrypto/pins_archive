@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/crypto-data-fbb31c2/data.csv
-- https://github.com/predictcrypto/pins/releases/download/crypto-data-fbb31c2/data.rds
-rows: 542339
+- https://github.com/predictcrypto/pins/releases/download/crypto-data-a84a723/data.csv
+- https://github.com/predictcrypto/pins/releases/download/crypto-data-a84a723/data.rds
+rows: 543872
 cols: 87
 columns:
   DateExtracted: factor
