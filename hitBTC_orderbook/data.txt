@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/hitBTC_orderbook-bae4abe/data.csv
+- https://github.com/predictcrypto/pins/releases/download/hitBTC_orderbook-e6c95d8/data.csv
 - data.rds
-rows: 169627
+rows: 150000
 cols: 27
 columns:
   pair: character
@@ -28,7 +28,7 @@ columns:
   bid_5_price: numeric
   bid_5_quantity: numeric
   date_time_utc: POSIXct
-  date: character
+  date: Date
   pkDummy: character
   pkey: character
 type: table
