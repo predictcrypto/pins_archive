@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 18415
+rows: 18424
 cols: 27
 columns:
   pair: character
@@ -28,7 +28,7 @@ columns:
   bid_5_price: numeric
   bid_5_quantity: numeric
   date_time_utc: POSIXct
-  date: character
+  date: Date
   pkDummy: character
   pkey: character
 type: table
