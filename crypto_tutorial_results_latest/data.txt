@@ -1,12 +1,12 @@
 path:
 - data.csv
 - data.rds
-rows: 840
+rows: 376
 cols: 6
 columns:
   symbol: character
-  split: numeric
   model: character
+  eval_set: character
   rmse: numeric
   rsq: numeric
   last_refreshed: POSIXct

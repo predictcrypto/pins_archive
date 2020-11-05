@@ -143,6 +143,6 @@
   type: table
 - path: crypto_tutorial_results_latest
   name: crypto_tutorial_results_latest
-  rows: 840
+  rows: 376
   cols: 6
   type: table
