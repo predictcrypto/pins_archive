@@ -1,0 +1,14 @@
+path:
+- data.csv
+- data.rds
+rows: 376
+cols: 7
+columns:
+  symbol: character
+  model: character
+  eval_set: character
+  rmse: numeric
+  rsq: numeric
+  date_time_utc: POSIXct
+  date_utc: character
+type: table
