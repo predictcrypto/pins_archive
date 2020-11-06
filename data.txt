@@ -148,6 +148,6 @@
   type: table
 - path: full_metrics
   name: full_metrics
-  rows: 376
+  rows: 752
   cols: 7
   type: table
