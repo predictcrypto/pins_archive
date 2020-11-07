@@ -1,0 +1,26 @@
+path:
+- data.csv
+- data.rds
+rows: 5280
+cols: 19
+columns:
+  Date: Date
+  Symbol: character
+  Open: numeric
+  High: numeric
+  Low: numeric
+  Close: numeric
+  VolumeUSDT: numeric
+  CloseLag1Hour: numeric
+  CloseLag12Hour: numeric
+  CloseLag24Hour: numeric
+  CloseLag3Day: numeric
+  CloseLag7Day: numeric
+  CloseLag14Day: numeric
+  CloseLag30Day: numeric
+  CloseLag90Day: numeric
+  CloseLag120Day: numeric
+  Volatility: numeric
+  Target24HourClose: numeric
+  DateTime: POSIXct
+type: table
