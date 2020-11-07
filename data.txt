@@ -153,6 +153,6 @@
   type: table
 - path: ETH_Binance
   name: ETH_Binance
-  rows: 5088
+  rows: 5112
   cols: 19
   type: table
