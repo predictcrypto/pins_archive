@@ -138,7 +138,7 @@
   type: table
 - path: hitBTC_orderbook
   name: hitBTC_orderbook
-  rows: 232651
+  rows: 232763
   cols: 27
   type: table
 - path: crypto_tutorial_results_latest
