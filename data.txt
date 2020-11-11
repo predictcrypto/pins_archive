@@ -156,3 +156,8 @@
   rows: 5111
   cols: 19
   type: table
+- path: crypto_tutorial_predictions_unknown_target_latest
+  name: crypto_tutorial_predictions_unknown_target_latest
+  rows: 320
+  cols: 6
+  type: table
