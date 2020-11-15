@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/crypto_tutorial_holdout_predictions_old-268fb42/data.csv
+- https://github.com/predictcrypto/pins/releases/download/crypto_tutorial_holdout_predictions_old-b7b679d/data.csv
 - data.rds
-rows: 10450
+rows: 62875
 cols: 39
 columns:
   symbol: character
