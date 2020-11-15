@@ -1,46 +1,15 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/crypto_tutorial_holdout_predictions-7c4c673/data.csv
+- data.csv
 - data.rds
-rows: 62875
-cols: 39
+rows: 10450
+cols: 8
 columns:
   symbol: character
   split: numeric
   holdout_predictions: numeric
-  num: integer
   date_time_utc: POSIXct
   date: Date
   price_usd: numeric
   target_price_24h: numeric
-  lagged_price_1h: numeric
-  lagged_price_2h: numeric
-  lagged_price_3h: numeric
-  lagged_price_6h: numeric
-  lagged_price_12h: numeric
-  lagged_price_24h: numeric
-  lagged_price_3d: numeric
-  actuals_test: list
-  actuals_holdout: list
-  lm_rsq_test: numeric
-  lm_rsq_holdout: numeric
-  lm_rmse_test: numeric
-  lm_rmse_holdout: numeric
-  nnet_holdout_predictions: list
-  rf_holdout_predictions: list
-  pcr_holdout_predictions: list
-  xgb_rmse_test: numeric
-  xgb_rmse_holdout: numeric
-  xgb_rsq_test: numeric
-  xgb_rsq_holdout: numeric
-  nnet_rmse_test: numeric
-  nnet_rmse_holdout: numeric
-  nnet_rsq_test: numeric
-  nnet_rsq_holdout: numeric
-  rf_rmse_test: numeric
-  rf_rmse_holdout: numeric
-  rf_rsq_test: numeric
-  rf_rsq_holdout: numeric
-  pcr_rmse_test: numeric
-  pcr_rmse_holdout: numeric
   last_refreshed: POSIXct
 type: table
