@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/hitBTC_orderbook-83ff27f/data.csv
+- https://github.com/predictcrypto/pins/releases/download/hitBTC_orderbook-e39d08b/data.csv
 - data.rds
-rows: 291129
+rows: 291350
 cols: 27
 columns:
   pair: character
