@@ -168,7 +168,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 10575
+  rows: 12950
   cols: 8
   type: table
 - path: crypto_tutorial_holdout_predictions_n
