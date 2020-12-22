@@ -1,0 +1,24 @@
+path:
+- data.csv
+- data.rds
+rows: 0
+cols: 17
+columns:
+  blockNumber: character
+  buyer: character
+  category: character
+  createdAt: character
+  nftAddress: character
+  price: character
+  status: character
+  txHash: character
+  price_mana: numeric
+  nft_image: character
+  nft_owner_address: character
+  nft_owner_mana: character
+  parcel_x_coordinate: character
+  parcel_y_coordinate: character
+  estate_size: integer
+  date_time_utc: POSIXct
+  date: Date
+type: table
