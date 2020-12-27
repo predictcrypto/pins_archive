@@ -1,0 +1,10 @@
+path:
+- data.csv
+- data.rds
+rows: 275
+cols: 3
+columns:
+  symbol: character
+  split: numeric
+  holdout_predictions: numeric
+type: table
