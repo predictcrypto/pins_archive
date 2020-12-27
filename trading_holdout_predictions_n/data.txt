@@ -1,0 +1,11 @@
+path:
+- data.csv
+- data.rds
+rows: 275
+cols: 4
+columns:
+  symbol: character
+  split: numeric
+  holdout_predictions: numeric
+  last_refreshed: POSIXct
+type: table

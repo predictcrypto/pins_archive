@@ -186,3 +186,8 @@
   rows: 275
   cols: 4
   type: table
+- path: trading_holdout_predictions_n
+  name: trading_holdout_predictions_n
+  rows: 275
+  cols: 4
+  type: table
