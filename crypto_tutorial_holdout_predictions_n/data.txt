@@ -1,8 +1,8 @@
 path:
 - data.csv
 - data.rds
-rows: 18050
-cols: 8
+rows: 3390
+cols: 9
 columns:
   symbol: character
   split: numeric
@@ -11,5 +11,6 @@ columns:
   date: Date
   price_usd: numeric
   target_price_24h: numeric
+  model: character
   last_refreshed: POSIXct
 type: table
