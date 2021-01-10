@@ -148,7 +148,7 @@
   type: table
 - path: full_metrics
   name: full_metrics
-  rows: 28240
+  rows: 28290
   cols: 7
   type: table
 - path: ETH_Binance
