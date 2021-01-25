@@ -178,7 +178,7 @@
   type: table
 - path: decentraland_market
   name: decentraland_market
-  rows: 35000
+  rows: 36000
   cols: 17
   type: table
 - path: trading_holdout_predictions_old
