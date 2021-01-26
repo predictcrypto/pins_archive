@@ -143,7 +143,7 @@
   type: table
 - path: crypto_tutorial_results_latest
   name: crypto_tutorial_results_latest
-  rows: 650
+  rows: 680
   cols: 6
   type: table
 - path: full_metrics
