@@ -133,7 +133,7 @@
   type: table
 - path: hitBTC_orderbooks_github
   name: hitBTC_orderbooks_github
-  rows: 52229
+  rows: 52240
   cols: 27
   type: table
 - path: hitBTC_orderbook
